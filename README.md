@@ -1,1 +1,3 @@
 # halloweenDrinkCampaign
+
+Using Foundation for emails 2 to create a fictitous email campaign for Halloween Drink sale...
